@@ -2,8 +2,8 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at *GAL INFO SOLUTIONS*, how *GAL INFO SOLUTIONS* uses it, and what choices you have.
-*GAL INFO SOLUTIONS* built the *YODENS* app as a free app. This SERVICE is provided by *GAL INFO SOLUTIONS* at no cost and is intended for use as is.
+Our privacy policy will help you understand what information we collect at *ATRISHA INFO SOLUTIONS*, how *ATRISHA INFO SOLUTIONS* uses it, and what choices you have.
+*ATRISHA INFO SOLUTIONS* built the *DUPASA* app as a free app. This SERVICE is provided by *ATRISHA INFO SOLUTIONS* at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 
 ### Information Collection and Use  
@@ -34,4 +34,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: *yodens.info@gmail.com*  
+Email: *atrisha.info@gmail.com*  
